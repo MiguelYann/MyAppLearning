@@ -1,0 +1,86 @@
+/* General configurations*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*For all style of body*/
+
+body {
+    font-family: 'Kalam', cursive;
+    font-size: 15px;
+}
+
+
+/*For text "MY" and the "." in the level 1 of title */
+
+.orange {
+    color: #ff7a00;
+}
+
+
+/*For all elements in header*/
+
+header {
+    height: 120px;
+}
+
+
+/*For remove the point on list of items*/
+
+ul {
+    list-style: none;
+}
+
+
+/*For all level 1 of title*/
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 45px;
+}
+
+
+/*For all link elements*/
+
+a {
+    text-decoration: none;
+    color: #ff7a00;
+}
+
+
+/*For*/
+
+header h1 {
+    float: left;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+
+/**/
+
+header nav {
+    float: right;
+    margin-top: 70px;
+}
+
+
+/**/
+
+header nav ul li {
+    display: inline-block;
+}
+
+
+/**/
+
+header nav ul li a {
+    font-weight: bold;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
