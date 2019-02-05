@@ -1,6 +1,7 @@
-# MyApplearning
+# MyAppLearning
 This application is for realize a web site responsive for improve my knowledge in Web World. I guess to become a FullStack Developper, so I'm going to do this application Web in progress. Don't hesitate to give me your feedback.
 Before clon this project you must have some tools.
+I have decided to make a site Web for my virtual agency that I call MY AGENCY( MY it's for Miguel Yann, the acronym of my name) 😆.
 
 ## Tools
 
@@ -14,8 +15,10 @@ I'm using three browser : SAFARI, GOOGLE CHROME, MOZILLA FIREFOX. But if you hav
 
 ## Languages 
 
+<<<<<<< HEAD
 For this project
  I will use HTML5, CSS3, and JavaScript(with library Jquery and Framework Bootstrap) for FrontOffice and PHP(Symphony) for BackOffice.
 
  ##Build
  
+
