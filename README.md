@@ -15,10 +15,11 @@ I'm using three browser : SAFARI, GOOGLE CHROME, MOZILLA FIREFOX. But if you hav
 
 ## Languages 
 
-<<<<<<< HEAD
 For this project
  I will use HTML5, CSS3, and JavaScript(with library Jquery and Framework Bootstrap) for FrontOffice and PHP(Symphony) for BackOffice.
 
- ##Build
+## Build
+
+When you have cloned my project you need a browser, and open the file index.html to see my web site.
  
 
