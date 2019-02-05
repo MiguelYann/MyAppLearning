@@ -14,4 +14,8 @@ I'm using three browser : SAFARI, GOOGLE CHROME, MOZILLA FIREFOX. But if you hav
 
 ## Languages 
 
-For this project I will use HTML5, CSS3, and JavaScript(with library Jquery and Framework Bootstrap) for FrontOffice and PHP(Symphony) for BackOffice.
+For this project
+ I will use HTML5, CSS3, and JavaScript(with library Jquery and Framework Bootstrap) for FrontOffice and PHP(Symphony) for BackOffice.
+
+ ##Build
+ 
