@@ -43,6 +43,15 @@ h1 {
 }
 
 
+/*For all level 2 of title*/
+
+h2 {
+    color: #444;
+    font-size: 55px;
+    font-family: 'Major Mono Display', monospace;
+}
+
+
 /*For all link elements*/
 
 a {
@@ -83,4 +92,37 @@ header nav ul li a {
     font-size: 20px;
     margin-right: 20px;
     margin-left: 20px;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+
+/*Main IMAGE*/
+
+#main-image {
+    height: 580px;
+    background: url('../images/main.jpg') center;
+}
+
+#main-image h2 {
+    font-weight: normal;
+    text-align: center;
+    padding: 150px 0px 40px 0px;
+    margin-bottom: 20px;
+}
+
+.Button1 {
+    width: 120px;
+    background: #ff7a00;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    color: black;
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    border-radius: 40px;
 }
