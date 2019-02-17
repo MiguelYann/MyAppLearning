@@ -46,8 +46,8 @@ h1 {
 /*For all level 2 of title*/
 
 h2 {
-    color: #444;
-    font-size: 55px;
+    color: white;
+    font-size: 85px;
     font-family: 'Major Mono Display', monospace;
 }
 
@@ -102,8 +102,8 @@ header nav ul li a {
 /*Main IMAGE*/
 
 #main-image {
-    height: 580px;
-    background: url('../images/main.jpg') center;
+    height: 680px;
+    background: url('../images/jose-llamas-696071-unsplash.jpg') center;
 }
 
 #main-image h2 {
