@@ -51,6 +51,15 @@ h2 {
     font-family: 'Major Mono Display', monospace;
 }
 
+h4 {
+    font-size: 24px;
+    color: #444;
+}
+
+p {
+    line-height: 20px;
+}
+
 
 /*For all link elements*/
 
@@ -125,4 +134,47 @@ header nav ul li a {
     margin: auto;
     text-align: center;
     border-radius: 40px;
+}
+
+
+/*STEPS*/
+
+#steps ul {
+    padding: 80px 0px;
+    border-bottom-color: #ff7a00;
+    border: solid #ff7a00;
+    height: 200px;
+    ;
+}
+
+#steps ul li {
+    width: 300px;
+    float: left;
+    padding-top: 140px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: 200px;
+    padding-left: 10px;
+}
+
+#steps h4 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    color: #ff7a00;
+}
+
+#steps p {
+    margin-bottom: 20px;
+}
+
+#step-1 {
+    background: url(../images/steps-icon-1.png) no-repeat top center;
+}
+
+#step-2 {
+    background: url(../images/steps-icon-2.png) no-repeat top center;
+}
+
+#step-3 {
+    background: url(../images/steps-icon-3.png) no-repeat top center;
 }
