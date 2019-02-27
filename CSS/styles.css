@@ -14,7 +14,7 @@
 /*For all style of body*/
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
     font-size: 15px;
 }
 
@@ -53,13 +53,14 @@ h1 {
 h2 {
     color: white;
     font-size: 105px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
     font-weight: bold;
 }
 
 h3 {
     font-size: 30px;
     color: #ff7a00;
+    font-weight: bold;
 }
 
 h4 {
@@ -112,7 +113,7 @@ header nav ul li {
 
 header nav ul li a {
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
     font-size: 20px;
     margin-right: 20px;
     margin-left: 20px;
@@ -166,7 +167,7 @@ header nav ul li a {
     padding-top: 140px;
     text-align: center;
     margin-right: auto;
-    margin-left: 270px;
+    margin-left: 90px;
     padding-left: 10px;
 }
 
@@ -208,9 +209,9 @@ header nav ul li a {
     width: 460px;
     height: 270px;
     float: left;
-    border-radius: 20px;
+    border-radius: 5px;
     margin-bottom: 30px;
-    margin-left: 600px;
+    margin-left: 60px;
 }
 
 #possibilities article:first-child {
@@ -238,7 +239,8 @@ article h4 {
     background: #ff7a00;
     color: black;
     border-radius: 30px;
-    margin-left: 200px;
+    margin-left: 300px;
+    padding: 10px;
 }
 
 .Button2:hover {
@@ -278,15 +280,26 @@ input[type=text] {
     font-size: 10px;
     text-align: center;
     border-radius: 2px;
+    padding: 10px;
 }
 
 .Button3 {
     width: 100px;
     color: #ff7a00;
-    padding: 11px;
+    padding: 20px;
     font-size: 30px;
+    height: 500px;
 }
 
 .Button3:hover {
     color: #6FB8DC;
+}
+
+
+/*FOOTER*/
+
+footer div {
+    background: #444;
+    height: 100px;
+    text-align: center;
 }
